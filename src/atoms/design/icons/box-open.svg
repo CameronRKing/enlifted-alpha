@@ -1,0 +1,6 @@
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M20 7H4V21H20V7Z"  stroke="var(--icon-color, #FFFFFF)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path opacity="0.35" fill-rule="evenodd" clip-rule="evenodd" d="M10 17.5L11 17C11 17 11.7721 16.5 12 16.5C12.5 16.5 13 17 13 17L14 16V16.5V20H10V17.5Z" fill="var(--icon-color, #FFFFFF)"/>
+<path d="M5 7L11 4"  stroke="var(--icon-color, #FFFFFF)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M19 7L14 3"  stroke="var(--icon-color, #FFFFFF)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

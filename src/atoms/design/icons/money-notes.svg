@@ -1,0 +1,9 @@
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M2.01782 12.5788L1.05037 8.96823C0.90656 8.43152 1.22977 7.87859 1.74799 7.73973L19.1505 3.07675C19.6796 2.93498 20.2253 3.25583 20.3688 3.79165L21.2816 7.19796L21.5 8.00004"  stroke="var(--icon-color, #FFFFFF)" stroke-width="2" stroke-linejoin="round"/>
+<path opacity="0.5" d="M16.5037 4.82126C16.8919 6.27015 18.729 7.33081 20.1779 6.94258"  stroke="var(--icon-color, #FFFFFF)" stroke-width="2"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M2 9.0025C2 8.44885 2.45531 8.00003 2.9918 8.00003H21.0082C21.556 8.00003 22 8.45579 22 9.0025V18.9976C22 19.5512 21.5447 20 21.0082 20H2.9918C2.44405 20 2 19.5443 2 18.9976V9.0025ZM12 16C13.1046 16 14 15.1046 14 14C14 12.8955 13.1046 12 12 12C10.8954 12 10 12.8955 10 14C10 15.1046 10.8954 16 12 16Z"  stroke="var(--icon-color, #FFFFFF)" stroke-width="2" stroke-linejoin="round"/>
+<path d="M18 9.00003C18 10.5 19.5 12 21 12"  stroke="var(--icon-color, #FFFFFF)" stroke-width="2"/>
+<path d="M6 9.00003C6 10.5 4.5 12 3 12"  stroke="var(--icon-color, #FFFFFF)" stroke-width="2"/>
+<path d="M18 19C18 17.5 19.5 16 21 16"  stroke="var(--icon-color, #FFFFFF)" stroke-width="2"/>
+<path d="M6 19C6 17.5 4.5 16 3 16"  stroke="var(--icon-color, #FFFFFF)" stroke-width="2"/>
+</svg>

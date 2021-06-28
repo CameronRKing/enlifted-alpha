@@ -1,0 +1,1 @@
+export default "/src/models/builtin/DefaultTags.ts";

@@ -1,0 +1,1 @@
+export default "/src/models/Transcript.ts";

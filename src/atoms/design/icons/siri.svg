@@ -1,0 +1,13 @@
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="20" height="20">
+<path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z" fill="var(--icon-color, #FFFFFF)"/>
+</mask>
+<g mask="url(#mask0)">
+<path d="M12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22Z"  stroke="var(--icon-color, #FFFFFF)" stroke-width="2"/>
+<path d="M2.5 15C2.5 15 3.75 14 6.5 14C9.25 14 12 18 16.5 18C21 18 23 16.5 23 16.5"  stroke="var(--icon-color, #FFFFFF)" stroke-width="2"/>
+<path d="M0.5 17C0.5 17 3 18 6.5 18C10 18 12.5 12 17.5 12C22.5 12 24 14.5 24 14.5"  stroke="var(--icon-color, #FFFFFF)" stroke-width="2"/>
+<path opacity="0.2" d="M-2 15C5.5 15 5 10.5 15 10C25 9.5 33 13.5 33 13.5"  stroke="var(--icon-color, #FFFFFF)" stroke-width="2"/>
+<path opacity="0.45" d="M2 24C5 24 10.5 18.5 17 18.5C23.5 18.5 27.5 23.5 27.5 23.5"  stroke="var(--icon-color, #FFFFFF)" stroke-width="2"/>
+<path opacity="0.4" d="M-5.5 12.5C-5.5 12.5 -2 10 4.5 10C11 10 11.5 15 18 15C24.5 15 27 12.5 27 12.5"  stroke="var(--icon-color, #FFFFFF)" stroke-width="2"/>
+</g>
+</svg>

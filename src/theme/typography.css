@@ -1,0 +1,197 @@
+/* https://www.figma.com/file/KA3QpgJccgw5DKgoagRgeU/Design-System?node-id=0%3A1 */
+@font-face {
+  font-family: 'Avenir Medium';
+  src: url('./fonts/avenir-medium.eot'); /* IE9 Compat Modes */
+  src: url('./fonts/avenir-medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./fonts/avenir-medium.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./fonts/avenir-medium.woff') format('woff'), /* Pretty Modern Browsers */
+       url('./fonts/avenir-medium.ttf')  format('truetype'); /* Safari, Android, iOS */
+}
+
+/* Nexa Heavy is for primary headers; Nexa Light is for secondary headers */
+@font-face {
+  font-family: 'Nexa Heavy';
+  src: url('./fonts/nexa-heavy.eot'); /* IE9 Compat Modes */
+  src: url('./fonts/nexa-heavy.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./fonts/nexa-heavy.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./fonts/nexa-heavy.woff') format('woff'), /* Pretty Modern Browsers */
+       url('./fonts/nexa-heavy.ttf')  format('truetype'); /* Safari, Android, iOS */
+}
+
+input:focus {
+  outline: none;
+}
+
+label {
+  position: relative;
+}
+
+label:before {
+  content: "";
+  position: absolute;
+  left: 12px;
+  top: 0;
+  bottom: 0;
+  width: 24px;
+  background: var(--placeholder-icon);
+}
+
+::placeholder {
+  color: var(--ion-color-white);
+}
+
+:root {
+  --title-font-family: 'Nexa Heavy';
+  --header-font-family: 'Nexa Heavy';
+  --body-font-family: 'Avenir Medium';
+  --ion-font-family: 'Avenir Medium';
+};
+
+.title {
+  font-family: var(--title-font-family);
+  font-size: 32px;
+  line-height: 40px;
+}
+
+/* I have no idea why, but I have to declare this class twice for it to catch */
+.title {
+  font-family: var(--title-font-family);
+  font-size: 32px;
+  line-height: 40px;
+}
+
+.header {
+  font-family: var(--header-font-family);
+  font-size: 24px;
+  line-height: 40px;
+}
+
+.lg-body {
+  font-family: var(--body-font-family);
+  font-size: 20px;
+  line-height: 32px;
+}
+
+.sm-body {
+  font-family: var(--body-font-family);
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0.01em;
+}
+
+.header-font {
+  font-family: var(--header-font-family) !important;
+}
+
+.body-font {
+  font-family: var(--body-font-family) !important;
+}
+
+.thin {
+  font-weight: 400;
+}
+
+.bold {
+  font-weight: 900;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.arrow-down {
+  border-left: 12px solid transparent;
+  border-right: 12px solid transparent;
+  border-top: 12px solid #F7F7F7;
+  margin-top: -1px;
+}
+
+.soft-talk-pulse {
+  animation: simple-pulse;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes simple-pulse {
+  0% {
+    background-color: rgba(0, 0, 0, 0);
+  }
+
+  25% {
+    background-color: rgba(176, 132, 204, 1);
+  }
+
+  100% {
+    background-color: rbga(0, 0, 0, 0);
+  }
+}
+
+
+/* modified from @ionic/vue/css/typography.css */
+html {
+  font-family: var(--ion-font-family);
+}
+
+a {
+  background-color: transparent;
+  color: var(--ion-color-primary, #3880ff);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 16px;
+  margin-bottom: 10px;
+  font-weight: 500;
+  line-height: 1.2;
+  font-family: 'Nexa Heavy';
+}
+
+h1 {
+  margin-top: 20px;
+  font-size: 26px;
+}
+h2 {
+  margin-top: 18px;
+  font-size: 24px;
+}
+h3 {
+  font-size: 22px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+h5 {
+  font-size: 18px;
+}
+
+h6 {
+  font-size: 16px;
+}
+
+small {
+  font-size: 75%;
+}
+
+sub,
+sup {
+  position: relative;
+  font-size: 75%;
+  line-height: 0;
+  vertical-align: baseline;
+}
+
+sup {
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+/*# sourceMappingURL=typography.css.map */

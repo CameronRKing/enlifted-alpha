@@ -1,0 +1,1 @@
+export default "/src/services/kaldi/computations/resampleTo16bint.wasm";

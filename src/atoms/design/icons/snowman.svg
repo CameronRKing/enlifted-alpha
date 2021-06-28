@@ -1,0 +1,11 @@
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M8.34913 10.0263C6.34031 11.2566 5 13.4718 5 16C5 19.866 8.13401 23 12 23C15.866 23 19 19.866 19 16C19 13.4357 17.6212 11.1935 15.5645 9.97423"  stroke="var(--icon-color, #FFFFFF)" stroke-width="2"/>
+<path d="M12 11C14.7614 11 17 8.76142 17 6C17 3.23858 14.7614 1 12 1C9.23858 1 7 3.23858 7 6C7 8.76142 9.23858 11 12 11Z"  stroke="var(--icon-color, #FFFFFF)" stroke-width="2"/>
+<path d="M10.5 7.5C10.5 7.5 10.5556 8.5 12 8.5C13.4444 8.5 13.5 7.5 13.5 7.5"  stroke="var(--icon-color, #FFFFFF)" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12 16C11.4477 16 11 15.5523 11 15C11 14.4477 11.4477 14 12 14C12.5523 14 13 14.4477 13 15C13 15.5523 12.5523 16 12 16ZM12 20C11.4477 20 11 19.5523 11 19C11 18.4477 11.4477 18 12 18C12.5523 18 13 18.4477 13 19C13 19.5523 12.5523 20 12 20Z" fill="var(--icon-color, #FFFFFF)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 6C9.44772 6 9 5.55228 9 5C9 4.44772 9.44772 4 10 4C10.5523 4 11 4.44772 11 5C11 5.55228 10.5523 6 10 6ZM14 6C13.4477 6 13 5.55228 13 5C13 4.44772 13.4477 4 14 4C14.5523 4 15 4.44772 15 5C15 5.55228 14.5523 6 14 6Z" fill="var(--icon-color, #FFFFFF)"/>
+<path d="M16 14L22 8"  stroke="var(--icon-color, #FFFFFF)" stroke-width="2" stroke-linecap="round"/>
+<path d="M20 7V10H23"  stroke="var(--icon-color, #FFFFFF)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M8 14L2 8"  stroke="var(--icon-color, #FFFFFF)" stroke-width="2" stroke-linecap="round"/>
+<path d="M4 7V10H1"  stroke="var(--icon-color, #FFFFFF)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

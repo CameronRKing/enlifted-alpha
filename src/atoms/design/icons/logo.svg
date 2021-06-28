@@ -1,0 +1,14 @@
+<svg width="32" height="50" viewBox="0 0 32 50" xmlns="http://www.w3.org/2000/svg">
+    <path
+        d="M0 35.2293L13.9612 43.2032V50L19.9381 46.5838V39.779L5.98951 31.8305L0 35.2293Z"
+        fill="var(--icon-color, #FFFFFF)"
+    />
+    <path
+        d="M0.0678711 19.2558L19.9228 30.6538V37.4656L25.8998 34.0418V27.2221L6.0259 15.8492L0.0678711 19.2558Z" 
+        fill="var(--icon-color, #FFFFFF)"
+    />
+    <path 
+        d="M0.135742 3.41781L26.0232 18.183V25.0035L32 21.5754V14.7469L6.15092 0L0.135742 3.41781Z" 
+        fill="var(--icon-color, #FFFFFF)"
+    />
+</svg>
