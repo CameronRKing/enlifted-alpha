@@ -7,7 +7,7 @@ import routes from '../../boot/routes.js';
 import TopNav from './Top.m.js';
 import BottomNav from './Bottom.m.js';
 import TranscribeService from '../../services/Transcribe.ts.proxy.js';
-import Kaldi from '../../services/Kaldi/main.js';
+import Kaldi from '../../services/kaldi/main.js';
 import Model from '../../db/Model.ts.proxy.js';
 
 const AppShell = {
