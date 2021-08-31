@@ -1,0 +1,1 @@
+export default "/src/services/kaldi/computations/kaldiJS.wasm";

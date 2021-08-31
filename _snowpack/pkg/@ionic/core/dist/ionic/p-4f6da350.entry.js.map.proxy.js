@@ -1,0 +1,1 @@
+export default "/_snowpack/pkg/@ionic/core/dist/ionic/p-4f6da350.entry.js.map";

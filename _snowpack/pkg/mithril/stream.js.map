@@ -1,0 +1,1 @@
+{"version":3,"file":"stream.js","sources":["../../../../mithril.js/stream.js"],"sourcesContent":["\"use strict\"\n\nmodule.exports = require(\"./stream/stream\")\n"],"names":["require$$0"],"mappings":";;;UAEc,GAAGA;;;;"}

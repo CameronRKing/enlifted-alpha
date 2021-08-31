@@ -1,0 +1,11 @@
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M6 3C6 2.44772 6.44772 2 7 2H17C17.5523 2 18 2.44772 18 3V10C18 13.3137 15.3137 16 12 16V16C8.68629 16 6 13.3137 6 10V3Z" stroke="var(--icon-color, #FFFFFF)" stroke-width="2"/>
+<path d="M12 16V21" stroke="var(--icon-color, #FFFFFF)" stroke-width="2" stroke-linecap="round"/>
+<path d="M6 5.2L3.27644 4.38293C2.64027 4.19208 2 4.66846 2 5.33265V5.33265C2 8.21337 3.56179 10.8677 6.08 12.2667L6.5 12.5" stroke="var(--icon-color, #FFFFFF)" stroke-width="2"/>
+<path d="M18 5.2L20.7236 4.38293C21.3597 4.19208 22 4.66846 22 5.33265V5.33265C22 8.21337 20.4382 10.8677 17.92 12.2667L17.5 12.5" stroke="var(--icon-color, #FFFFFF)" stroke-width="2"/>
+<line x1="10" y1="7" x2="14" y2="7" stroke="var(--icon-color, #FFFFFF)" stroke-width="2" stroke-linecap="round"/>
+<line x1="11" y1="11" x2="13" y2="11" stroke="var(--icon-color, #FFFFFF)" stroke-width="2" stroke-linecap="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 21C9.44772 21 9 21.4477 9 22H7C6.44772 22 6 22.4477 6 23C6 23.5523 6.44772 24 7 24H17C17.5523 24 18 23.5523 18 23C18 22.4477 17.5523 22 17 22H15C15 21.4477 14.5523 21 14 21H10Z" fill="var(--icon-color, #FFFFFF)"/>
+<path d="M4 15V21" stroke="var(--icon-color, #FFFFFF)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1 18H7" stroke="var(--icon-color, #FFFFFF)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

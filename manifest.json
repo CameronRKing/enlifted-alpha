@@ -1,0 +1,13 @@
+{
+  "name": "Enlifted",
+  "short_name": "Enlifted",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "A workbench for your language.",
+  "icons": [{
+    "src": "images/touch/homescreen48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }]
+}

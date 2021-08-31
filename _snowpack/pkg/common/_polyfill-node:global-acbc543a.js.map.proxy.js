@@ -1,0 +1,1 @@
+export default "/_snowpack/pkg/common/_polyfill-node:global-acbc543a.js.map";

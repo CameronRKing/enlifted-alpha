@@ -1,0 +1,1 @@
+export default "/_snowpack/pkg/ospec.js.map";

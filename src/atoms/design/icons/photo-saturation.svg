@@ -1,0 +1,6 @@
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M19 4H5C3.89543 4 3 4.89543 3 6V18C3 19.1046 3.89543 20 5 20H19C20.1046 20 21 19.1046 21 18V6C21 4.89543 20.1046 4 19 4Z"  stroke="var(--icon-color, #FFFFFF)" stroke-width="2" stroke-linecap="round"/>
+<path opacity="0.15" d="M16 5H12V19H16V5Z" fill="var(--icon-color, #FFFFFF)"/>
+<path opacity="0.3" d="M12 5H8V19H12V5Z" fill="var(--icon-color, #FFFFFF)"/>
+<path opacity="0.45" d="M8 5H4V19H8V5Z" fill="var(--icon-color, #FFFFFF)"/>
+</svg>
