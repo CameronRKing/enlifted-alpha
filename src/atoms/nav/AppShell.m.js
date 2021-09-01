@@ -70,7 +70,8 @@ const AppShell = m.cmp({
 
     oncreate(vnode) {
         this.localCtx.screenStack = this.screenStack.state;
-        if (this.cmp) setTimeout(() => this.localCtx.screenStack.add(this.cmp, 'up'), 16);
+        this.localCtx.screenStack.ready.then(() => this.ready(true));
+        if (this.cmp) this.localCtx.screenStack.ready.then(() => this.localCtx.screenStack.add(this.cmp, 'up'));
     },
 
     view: function AppShell(vnode) {
