@@ -12,6 +12,7 @@ const InitialView = m.cmp({
     async setup(vnode) {
         this.sync(vnode, ["ctx"]);
         const status = await Onboarding.singleton();
+        await this.ctx.screenStack.ready;
         this.ctx.screenStack.add(status.initial ? Home : OnboardingView, 'down');
     },
     view: function InitialView(vnode) {
