@@ -8,6 +8,9 @@ import Btn from '../Btn.m.js';
 import ScreenStackDirect from './ScreenStackDirect.js';
 
 const ScreenStack = m.cmp({
+    setup() {
+        this.ready = new Promise(resolve => this.emitReady = resolve);
+    },
     add(...args) {
         return this.screenStack.add(...args);
     },
@@ -21,6 +24,7 @@ const ScreenStack = m.cmp({
         // screen height isn't always setting correctly. attempting a hotfix
         setTimeout(() => {
             this.screenStack = new ScreenStackDirect(this.el.dom, this.ctx);
+            this.emitReady();
         }, 16); 
     },
     view: function ScreenStack(vnode) {
