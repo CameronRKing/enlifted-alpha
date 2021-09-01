@@ -18,7 +18,10 @@ const ScreenStack = m.cmp({
         return this.screenStack.swap(...args);
     },
     oncreate(vnode) {
-        this.screenStack = new ScreenStackDirect(this.el.dom, this.ctx);
+        // screen height isn't always setting correctly. attempting a hotfix
+        setTimeout(() => {
+            this.screenStack = new ScreenStackDirect(this.el.dom, this.ctx);
+        }, 16); 
     },
     view: function ScreenStack(vnode) {
         this.sync(vnode, ["ctx"]);
